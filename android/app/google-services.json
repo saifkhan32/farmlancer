@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "605083479990",
+    "project_id": "farm-lancer",
+    "storage_bucket": "farm-lancer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605083479990:android:8e92e48e051a9267e31b17",
+        "android_client_info": {
+          "package_name": "com.farmlancer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605083479990-isdv3j6dhmcs7fhmfva3uhgsn5lf47a7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.farmlancer",
+            "certificate_hash": "507ca386d1fe96a2e629112b674f7ea3d93a80dc"
+          }
+        },
+        {
+          "client_id": "605083479990-n18utf0tgs7pljea9ps53i6rrbi0m2jf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.farmlancer",
+            "certificate_hash": "e19ac022e4022d9e093a523b7f18301cadecb848"
+          }
+        },
+        {
+          "client_id": "605083479990-9frumqoim1lefdoukh5u6eniq0jeau5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn6-FPW9vjDk2ayS_S3Q9F85zRv69274U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605083479990-3i8e5adgke5ai1kbkav511k7a79hfpab.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "605083479990-dsrfgkihsksbvdjf33uvtl95jmlnf0r1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.farmlancer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605083479990:android:89324f9f695fbd30e31b17",
+        "android_client_info": {
+          "package_name": "com.freelancer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605083479990-61nm8tkrhq69npe9k28tn6l78ik37vs2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.freelancer",
+            "certificate_hash": "e19ac022e4022d9e093a523b7f18301cadecb848"
+          }
+        },
+        {
+          "client_id": "605083479990-culmktdt6pcku8185c8b30guh1olevpg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.freelancer",
+            "certificate_hash": "507ca386d1fe96a2e629112b674f7ea3d93a80dc"
+          }
+        },
+        {
+          "client_id": "605083479990-9frumqoim1lefdoukh5u6eniq0jeau5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn6-FPW9vjDk2ayS_S3Q9F85zRv69274U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605083479990-3i8e5adgke5ai1kbkav511k7a79hfpab.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "605083479990-dsrfgkihsksbvdjf33uvtl95jmlnf0r1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.farmlancer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
