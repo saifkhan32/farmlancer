@@ -1,5 +1,5 @@
 # farmlancer
-# Farmlancer is an Android Application where farmers can post and apply for the jobs .\
+**Farmlancer is an Android Application where farmers can post and apply for the jobs .**\
 The owner of the jobs post can see the details of farmers applied for the specific post.\
 • The jobs posted by any person would go for the approval to the admin of the application. If the jobs get approved then the other user will able to see the particular post and can apply to it.\
 • Built with Flutter and Firebase as  Backend.\
